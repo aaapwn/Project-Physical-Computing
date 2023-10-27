@@ -3,4 +3,5 @@
 ผลการดำเนินงานพบว่าสิ่งประดิษฐ์ ถังขยะอัจฉริยะ สามารถเปิดปิดฝาถังขยะได้อัตโนมัติ ช่วยลดการสัมผัสได้จริง สะดวกต่อการใช้งาน
 
 # อุปกรณ์
-
+1. Micro servo sg90
+<img src="[https://cdn-shop.adafruit.com/970x728/65-00.jpg](https://github.com/aaapwn/Project-Physical-Computing/blob/main/servo.jpg)https://github.com/aaapwn/Project-Physical-Computing/blob/main/servo.jpg" width="150px">
