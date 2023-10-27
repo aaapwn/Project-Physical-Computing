@@ -4,15 +4,15 @@
 
 # อุปกรณ์
 - Micro servo sg90
-  <img src="https://github.com/aaapwn/Project-Physical-Computing/blob/main/servo.jpg" width="150px">
+<img src="https://github.com/aaapwn/Project-Physical-Computing/blob/main/servo.jpg" width="150px">
 - E18-D80NK
-  <img src="https://github.com/aaapwn/Project-Physical-Computing/blob/main/E18-D80NK.jpg" width="150px">
+<img src="https://github.com/aaapwn/Project-Physical-Computing/blob/main/E18-D80NK.jpg" width="150px">
 - Arduino UNO
-  <img src="https://github.com/aaapwn/Project-Physical-Computing/blob/main/Arduino%20UNO.jpg" width="150px">
+<img src="https://github.com/aaapwn/Project-Physical-Computing/blob/main/Arduino%20UNO.jpg" width="150px">
 - Jumper wire
-  <img src="https://github.com/aaapwn/Project-Physical-Computing/blob/main/Jumper%20wire.jpg" width="150px">
+<img src="https://github.com/aaapwn/Project-Physical-Computing/blob/main/Jumper%20wire.jpg" width="150px">
 - ถังขยะ
-  <img src="https://github.com/aaapwn/Project-Physical-Computing/blob/main/ถังขยะ.jpg" width="150px">
+<img src="https://github.com/aaapwn/Project-Physical-Computing/blob/main/ถังขยะ.jpg" width="150px">
 
 # วิธีการทำงาน
 1. เมื่อนำขยะเข้าใกล้เซนเซอร์ตรวจจับวัตถุ(E18-D80NK) เซนเซอร์จะทำงาน ขึ้น bit 1
