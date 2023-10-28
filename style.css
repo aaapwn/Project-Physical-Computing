@@ -24,7 +24,7 @@ body{
 h1{
     font-size: 40px;
 }
-video{
+iframe{
     border: 15px rgb(177, 222, 110) solid;
     border-radius: 30px;
 }
