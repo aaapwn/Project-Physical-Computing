@@ -1,4 +1,8 @@
+*{
+    font-family: Mitr;
+}
 body{
+    background-color: #fff995;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -9,8 +13,18 @@ body{
 .box1{
     display: flex;
     gap: 40px;
+    border: 8px rgb(177, 222, 110) solid;
+    border-radius: 20px;
+    padding: 15px;
 }
 .lukkarn{
     display: flex;
     gap: 40px;
+}
+h1{
+    font-size: 40px;
+}
+video{
+    border: 15px rgb(177, 222, 110) solid;
+    border-radius: 30px;
 }
