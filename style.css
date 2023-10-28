@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pics{
+    width: 1000px;
+}
+.box1{
+    display: flex;
+    gap: 40px;
+}
+.lukkarn{
+    display: flex;
+    gap: 40px;
+}
