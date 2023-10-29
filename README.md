@@ -26,8 +26,8 @@
 # Website
 https://aaapwn.github.io/Project-Physical-Computing/
 
-# VDO
-![Video Title]("https://www.youtube.com/embed/pGg8_VedjBU?si=Ip7SB6kBgfwS4Jb7")
+# VDO สาธิต
+https://www.youtube.com/embed/pGg8_VedjBU?si=Ip7SB6kBgfwS4Jb7
 
 # สมาชิกในกลุ่ม
 1. นายชินาธิป หวู รหัส 65070052
