@@ -23,6 +23,9 @@
 4. หลังจากนั้น ระบบจะขึ้น bit 0 และมอเตอร์จะหมุนกลับมา 0องศา เพื่อผลักฝาปิดกลับที่เดิม
 <img src="https://github.com/aaapwn/Project-Physical-Computing/blob/main/circuit.png" width="full">
 
+# Website
+https://aaapwn.github.io/Project-Physical-Computing/
+
 # สมาชิกในกลุ่ม
 1. นายชินาธิป หวู รหัส 65070052
 2. นางสาวชุติกาญจน์ ใจคง รหัส 65070053
