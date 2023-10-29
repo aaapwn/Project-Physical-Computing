@@ -26,8 +26,12 @@
 # Website
 https://aaapwn.github.io/Project-Physical-Computing/
 
+# VDO
+<iframe width="1000" height="650" src="https://www.youtube.com/embed/pGg8_VedjBU?si=Ip7SB6kBgfwS4Jb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # สมาชิกในกลุ่ม
 1. นายชินาธิป หวู รหัส 65070052
 2. นางสาวชุติกาญจน์ ใจคง รหัส 65070053
 3. นายภูวิศ นุ่นปาน รหัส 65070185
 4. นายสุเมธา ปานกลาง รหัส 65070243
+
